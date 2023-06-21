@@ -1,3 +1,5 @@
+This website is built using React and serves as a tool for task management. It incorporates a secure Email and Password Authentication system implemented through Google Firebase.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
